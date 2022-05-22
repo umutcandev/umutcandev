@@ -1,16 +1,13 @@
-### Hi there 👋
+## Merhaba 👋
+Boş zamanlarımda #Flarum #Wordpress ve #Xenforo ile uğraşan yazılım harici teknoloji ve siber güvenlik ile yakından ilgilenen sıradan bir ön uç geliştiriciyim. Halihazırda Hacktivizm'de co-administrator, FlarumTR'de moderasyon ve çeviri ekibinde görev yapmaktayım.
 
-<!--
-**umutcandev/umutcandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3127fag3533fch5fa56cxkiaaore&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Aktif Projelerim
+- [@sibersozluknet](https://github.com/sibersozluknet)
+
+### İletişim Adreslerim
+- [Telegram](https://t.me/irkcigenc)
+- [Instagram](https://instagram.com/sibersozluknet)
+- [E-Posta](mailto:umuthcan@gmail.com)
