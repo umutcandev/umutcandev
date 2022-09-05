@@ -3,7 +3,7 @@ Boş zamanlarımda **#Flarum #Wordpress** ve **#Xenforo** ile uğraşan yazılı
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=317sh6fy2h2wjh52aq4byuzyes6u)
 
-### Aktif Projelerim [![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/h703.svg)](https://betteruptime.com/?utm_source=status_badge)
+### Aktif Projelerim [![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/h703.svg)](https://teknoloji.betteruptime.com/)
 - [teknolojin.net](https://teknolojin.net)
 
 ### İletişim Adreslerim
