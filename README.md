@@ -1,5 +1,5 @@
 ## Selam 👋
-Boş zamanlarımda **#Flarum #Wordpress** ve **#Xenforo** ile uğraşan yazılım harici **teknoloji** ve **siber güvenlik** ile yakından ilgilenen sıradan bir **ön uç** geliştiriciyim.
+Boş zamanlarımda **#Flarum #WordPress** ve **#XenForo** ile uğraşan yazılım harici **teknoloji** ve **siber güvenlik** ile yakından ilgilenen sıradan bir **ön uç** geliştiriciyim.
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31fumuiooziugt54bag4ugwrkwu4)
 
