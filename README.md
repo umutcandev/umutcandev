@@ -1,7 +1,7 @@
 ## Selam 👋
 Boş zamanlarımda **#Flarum #WordPress** ve **#XenForo** ile uğraşan yazılım harici **teknoloji** ve **siber güvenlik** ile yakından ilgilenen sıradan bir **ön uç** geliştiriciyim.
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31fumuiooziugt54bag4ugwrkwu4)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=nha3tcz9vi2yu93i3j8yeyedu&unique={true|1|on|yes})
 
 ### Aktif Projelerim
 - [teknocat.net](https://teknocat.net/)
