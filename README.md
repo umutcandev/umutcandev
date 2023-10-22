@@ -4,7 +4,7 @@ Boş zamanlarımda **#Flarum #WordPress** ve **#XenForo** ile uğraşan yazılı
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=nha3tcz9vi2yu93i3j8yeyedu&unique={true|1|on|yes})
 
 ### Aktif Projelerim
-- [teknorant.com](https://teknorant.com)
+- Eklenecektir
 ### İletişim Adreslerim
 - [Telegram](https://t.me/irkcigenc)
 - [E-Posta](mailto:umuthcan@gmail.com)
