@@ -8,7 +8,7 @@ Aşağıda günümün önemli bir bölümünü ayırdığım, birçoğu ile kull
 
 ## ![brush-line](https://github.com/user-attachments/assets/075d0551-89b1-43fc-ba51-ba07d3697c9b) Grafik ve Arayüz
 - ![Figma](https://github.com/user-attachments/assets/629514cc-e805-4b86-8bcc-080875fb8ef3) **[Figma](https://figma.com)** - Güçlü bir tasarım aracı.
-- ![Framer](https://github.com/user-attachments/assets/8d738d8e-20cc-4974-9e4b-616edba65bd9) **[Framer](https://framer.co)** - Etkileşimli prototipler ve arayüzler için güçlü tasarım aracı.
+- ![Framer](https://github.com/user-attachments/assets/8d738d8e-20cc-4974-9e4b-616edba65bd9) **[Framer](https://framer.com)** - Etkileşimli prototipler ve arayüzler için güçlü tasarım aracı.
 
 ## ![service-line](https://github.com/user-attachments/assets/372a6ddf-9a72-44b7-8fe2-dc20f21c1ec9) Teknogoal
 - ![Teknogoal](https://github.com/user-attachments/assets/9cf1b056-e1e0-41e9-843a-fe206028d6f2) **[Teknogoal](https://teknogoal.com/)** - Dijital dünyanın nabzını tutan online platform.
