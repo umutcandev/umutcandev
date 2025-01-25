@@ -12,4 +12,4 @@ Aşağıda günümün önemli bir bölümünü ayırdığım, birçoğu ile kull
 
 ## ![service-line](https://github.com/user-attachments/assets/372a6ddf-9a72-44b7-8fe2-dc20f21c1ec9) Teknogoal
 - ![Teknogoal](https://github.com/user-attachments/assets/9cf1b056-e1e0-41e9-843a-fe206028d6f2) **[Teknogoal](https://teknogoal.com/)** - Dijital dünyanın nabzını tutan online platform.
-- ![Sosyal Teknogoal](https://github.com/user-attachments/assets/dc669391-6a3f-4760-9c89-4a6765db8482) **[Sosyal Teknogoal](https://sosyal.teknogoal.com/)** - Teknoloji ve sosyal içeriklerle dolu tartışma forumu.
+- ![İzci Forum](https://github.com/user-attachments/assets/9fb70c5f-5215-481d-80c9-8a2b8d91da74) **[İzci Forum](https://izciforum.com/)** - Doğa, izcilik ve amatör telsizcilik konularının buluşma noktası.
